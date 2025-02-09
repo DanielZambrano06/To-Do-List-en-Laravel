@@ -13,6 +13,7 @@ Antes de empezar, asegúrate de tener instalados los siguientes programas en tu 
 - **Git** y una cuenta en **GitHub**
 - **Cuenta en Heroku** y **Heroku CLI** (si planeas desplegarlo)
 -**"Node.js"**
+-**XAMPP**
 
 ## Instalación
 
